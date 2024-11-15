@@ -14,7 +14,7 @@ export function InfoSheet() {
   return (
     <Sheet>
       <SheetTrigger asChild>
-        <Button>Info</Button>
+        <Button>Details</Button>
       </SheetTrigger>
       <SheetContent>
         <SheetHeader>
